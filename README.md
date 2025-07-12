@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working on [Melangify](https://www.melangify.com) and [Aitado](https://www.aitado.com)
 
+- 🤯 I'm interested in Large Language Models and Agents
+  
+- 📮 Message me at the @marshallvariant on X if you would like to chat
+
 
 <p align="left">
 </p>
