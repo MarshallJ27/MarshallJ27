@@ -6,7 +6,7 @@
 
 - 🤯 I'm interested in Large Language Models and Agents
   
-- 📮 Message me at the @marshallvariant on X if you would like to chat
+- 📮 Message me @marshallvariant on X if you would like to chat
 
 
 <p align="left">
