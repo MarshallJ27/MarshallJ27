@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist and AI Engineer</h3>
 <br></br>
 
-- 🔭 I’m currently working on [Melangify](https://www.melangify.com/overview) and [Aitado](https://www.aitado.com)
+- 🔭 I’m currently working on [Melangify](https://www.melangify.com) and [Aitado](https://www.aitado.com)
 
 - 🤯 I'm interested in Large Language Models and Agents
   
