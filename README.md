@@ -2,7 +2,10 @@
 <h3 align="center">Data Scientist and AI Engineer</h3>
 <br></br>
 
-- 🔭 I’m currently working on [Aitado](https://www.aitado.com)
+- Founding AI Engineer at [Waldium](https://www.waldium.com), building the best AI technical blogger
+  
+- 🔭 I founded [Aitado](https://www.aitado.com), used by universities to give
+  better AI experiences to their students
 
 - 🤯 I'm interested in Large Language Models and Agents
   
