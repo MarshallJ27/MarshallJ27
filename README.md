@@ -13,9 +13,7 @@
 
 Previously a data scientist @
 
--Expedia
--Lakeshore Learning
--Centerfield Media
+-Expedia, Lakeshore Learning, Centerfield Media
 
 <p align="left">
 </p>
