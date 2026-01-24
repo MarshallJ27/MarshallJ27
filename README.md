@@ -12,6 +12,7 @@
 - 📮 Message me @marshallvariant on X if you would like to chat
 
 Previously a data scientist @
+
 -Expedia
 -Lakeshore Learning
 -Centerfield Media
