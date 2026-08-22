@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer and Data Scientist</h3>
 <br></br>
 
-- Senior Member of Technical staff at SalesForce on AgentForce Voice
+- Senior Member of Technical staff at SalesForce on AgentForce, building enterprise grade voice agents.
 
 - Founding AI Engineer at [Structured Labs](https://www.waldium.com) (Aquired by SalesForce)
   
